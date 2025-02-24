@@ -63,3 +63,41 @@ The project is built on a structured relational database consisting of fact tabl
 🛠 Functions (Reusable SQL Calculations)
 
     get_fiscal_year – Determines the fiscal year for a given date.
+
+🔍 **Key Business Insights & Analysis**
+
+1️⃣ Revenue Trends & Sales Performance
+
+  📌 Analyzing gross vs. net sales to identify revenue trends
+
+  📌 Comparing forecasted vs. actual sales for future demand prediction
+
+2️⃣ Market Segmentation & Regional Analysis
+
+  📌 Identifying high-performing regions with top revenue generation
+
+  📌 Understanding regional sales variations to optimize strategies
+
+3️⃣ Customer Purchasing Behavior
+
+  📌 Tracking customer spending habits to identify high-value customers
+
+  📌 Evaluating the impact of invoice discounts on revenue
+
+4️⃣ Product Demand Forecasting
+
+  📌 Determining best-selling products using historical sales data
+
+  📌 Analyzing manufacturing costs vs. sales price for profitability
+
+🛠 **Technologies Used**
+
+✔ SQL (MySQL) – Database management, querying, views, and stored procedures
+
+**📩 Contact & Contribution**
+
+For suggestions, feedback, or collaboration:
+
+📧 Email: gajanandvaghile2003@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/gajanand-vagile-d9/
